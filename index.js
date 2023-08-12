@@ -1,2 +1,1 @@
-console.log('JENKINS!')
-console.log('TRIGGER KANA ADA CHANGES!')
+console.log('JENKINS PIPELINE!')
